@@ -1,0 +1,28 @@
+name: Glen Cornell
+favicon: null
+layout_spectrum: 0.7828309596516192
+typography_spectrum: 0.32768295449204743
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3307543573901057
+  lightness: 0.5038469147402793
+  saturation: 0.42022230685688555
+  rhythmicContrast: 0.5572277994360775
+purpose: []
